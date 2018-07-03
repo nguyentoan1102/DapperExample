@@ -1,0 +1,13 @@
+D:\Project\SQLDataAccessDemo\bin\Debug\SQLDataAccessDemo.exe.config
+D:\Project\SQLDataAccessDemo\bin\Debug\SQLDataAccessDemo.exe
+D:\Project\SQLDataAccessDemo\bin\Debug\SQLDataAccessDemo.pdb
+D:\Project\SQLDataAccessDemo\bin\Debug\Dapper.dll
+D:\Project\SQLDataAccessDemo\bin\Debug\Dapper.xml
+D:\Project\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csprojResolveAssemblyReference.cache
+D:\Project\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.Dashboard.resources
+D:\Project\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.Properties.Resources.resources
+D:\Project\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csproj.GenerateResource.cache
+D:\Project\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csproj.CoreCompileInputs.cache
+D:\Project\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csproj.CopyComplete
+D:\Project\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.exe
+D:\Project\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.pdb
